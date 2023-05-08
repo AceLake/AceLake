@@ -1,5 +1,6 @@
-### Hi there 👋
+Hello, My name is Zachary Ace Lake I'm a senior at GCU.
 
+At the moment, I am working on a Bible study group management application. Currently, I am not working in the field. I will soon though just you wait. 
 <!--
 **AceLake/AceLake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
