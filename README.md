@@ -51,7 +51,7 @@ List some of your most significant or interesting projects with a brief descript
   - I learned to be adaptable. If the boss wanted me to mow I was a mower if they wanted me to landscape I was a landscaper. They say it I do it.
 
 - [Mission Valley Christian Academy](https://mvcapolson.org/) - Volunteer Code Teacher (September 2019 - March 2020)
-  - I thought grades 2nd - 6th Lessons through Code.org.
+  - I tought grades 2nd - 6th Lessons through Code.org.
   - I learned how to learn the material and teach at the same time.
 
 ## Education
