@@ -64,4 +64,3 @@ List some of your most significant or interesting projects with a brief descript
 
 - English
 
-Feel free to customize this template to suit your preferences and include any additional sections you find relevant. Don't forget to add links to your projects, profiles, and other relevant information. Your GitHub README is a personal space to showcase your work and personality, so make it your own!
