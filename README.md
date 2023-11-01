@@ -4,7 +4,7 @@
 
 - 👋 Hey, I'm Zachary Lake I usually go by my middle name Ace. Named after the greatest of great-grandpas! Acel Lake 👨🏽‍🌾 founder of the family farm 🚜🥔!
 - 🎓 Currently I'm a Senior at Grand Canyon University.
-- 🌱 I'm constantly trying to learn. "You always need to be a bit paranoid you do not know enough" - Andy Grove
+- 🌱 I'm always trying to learn new things which seems like an endless task. "You always need to be a bit paranoid you do not know enough" - Andy Grove
 
 ## Skills
 
