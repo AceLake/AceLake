@@ -10,12 +10,14 @@
 
 ## Skills
 
-- 💻 Programming Languages: C#, Java, Dart, Typescript, SQL, C++, Python, javascript, HTML, CSS
+- 💻 Programming Languages: C, C++, Java, C#, JavaScript, HTML/CSS, Python, SQL, Dart, Bash Scripting, TypeScript
 - 🧱 Frameworks: .NET Core, SpringBoot, React, Angular, Express, Flutter
-- 🗃️ Databases: MySQL, Mongo, Firebase
-- 📔 Design Patterns: MVC, OOP, N-Layer Architecture, Request Response
-- 📚 Concepts: Software Development Life Cycle, Agile, Scrum, Sprint, Rest API, Project Management, Logging and Log Analysis
-- 🛠️ Tools: Confluence, Jira, MySQL Workbench, phpMyAdmin, Visual Studio, Visual Studio Code, GitHub, Adobe XD, Adobe Illustrator, Draw io, VMware, Cisco Packet Tracer, Postman, Figma
+- 🗃️ Databases: MySQL, Mongo, Firebase, SQL Server
+- 📔 Design Patterns: MVC, OOP, N-Layer Architecture, Design (UML, Flowchart, Wireframe)
+- 📚 Concepts: Software Development Life Cycle, Agile, Scrum, Sprint, REST API, Project Management, Logging and Log Analysis, Data Structures, and Algorithms
+               Operating Systems, Cloud Computing (SaaS, PaaS, Iaas), back-end, front-end, DevOps, QA
+- 🛠️ Web-based tools: Confluence, Jira, MySQL Workbench, phpMyAdmin, Visual Studio, Visual Studio Code, GitHub, Adobe XD, Adobe Illustrator, Draw io, VMware, Cisco Packet Tracer, Postman, Figma, Excel, PowerPoint, Windows, Linux, AWS, Microsoft Azure, Google Cloud, 
+     Heroku, Atlassian
 
 ## Contact Me
 
