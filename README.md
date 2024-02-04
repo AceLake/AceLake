@@ -21,7 +21,7 @@
 
 - 📧 Email: [ajajmd10@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/zachary-lake/]
-- 📃 Resume: [Link to the doc](https://github.com/AceLake/AceLake/files/13230865/Zachary.Lake.-.Resume.2.docx)
+- 📃 Resume: [Link to the doc](https://github.com/AceLake/AceLake/files/14157977/Zachary.Lake.-.Resume.docx)
 
 ## Projects
 
