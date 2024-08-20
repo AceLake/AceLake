@@ -2,15 +2,15 @@
 
 ## About Me
 
-- 👋 Hey, I'm Zachary Lake I usually go by my middle name Ace. Named after the greatest of great-grandpas! Acel Lake 👨🏽‍🌾 founder of the family farm 🚜🥔!
-- 🎓 Currently I'm a Senior at Grand Canyon University.
-- 🌱 I'm always trying to learn new things which seems like an endless task.
+-  Hey, I'm Zachary Lake I usually go by my middle name Ace. Named after the greatest of great-grandpas! Acel Lake founder of the family farm!
+-  Currently, I'm a self-employed developer for local businesses in the Mission Valley.
+-  I'm always trying to learn new skills and techniques, which seems endless.
   
      "You always need to be a bit paranoid you do not know enough" - Andy Grove
 
 ## Skills
 
-- 💻 Programming Languages: C, C++, Java, C#, JavaScript, HTML/CSS, Python, SQL, Dart, Bash Scripting, TypeScript
+- 💻 Programming Languages: Java, C#, C, C++, JavaScript, HTML/CSS, Python, SQL, Dart, Bash Scripting, TypeScript
 - 🧱 Frameworks: .NET Core, SpringBoot, React, Angular, Express, Flutter
 - 🗃️ Databases: MySQL, Mongo, Firebase, SQL Server
 - 📔 Design Patterns: MVC, OOP, N-Layer Architecture, Design (UML, Flowchart, Wireframe)
@@ -21,9 +21,8 @@
 
 ## Contact Me
 
-- 📧 Email: [ajajmd10@gmail.com]
+- 📧 Email: [zacharylake24@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/zachary-lake/]
-- 📃 Resume: [Link to the doc](https://github.com/AceLake/AceLake/files/14157977/Zachary.Lake.-.Resume.docx)
 
 ## Projects
 
